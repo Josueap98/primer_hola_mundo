@@ -1,5 +1,11 @@
-Nombre alumno: Josué Miguel Pérez Damián
-Control: 20760255
 
-Acerca de:
-Mi primera app en Flutter
+Hola Mundo
+Mi primera App en Flutter
+
+Mi primera app creada en Flutter, con Android Studio
+License
+
+MIT
+
+Happy Coding, Hell Yeah!
+
